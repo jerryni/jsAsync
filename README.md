@@ -8,7 +8,7 @@ callback => promise => generator => async
 
 > npm start
 
-> http://localhost:8080/build/index.html
+> http://localhost:8080/
 
 ## 下面4个方式都能达到相同的效果
 

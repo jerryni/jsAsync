@@ -13,6 +13,7 @@ module.exports = {
     // 输出路径( webpack打包完后 )
     output: {
         path: BUILD_PATH,
+        publicPath:'',
         filename: 'bundle.js'
     },
 
