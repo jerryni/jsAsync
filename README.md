@@ -5,7 +5,9 @@ callback => promise => generator => async
 ## 启动
 
 > npm install
+
 > npm start
+
 > http://localhost:8080/build/index.html
 
 ## 下面4个方式都能达到相同的效果
